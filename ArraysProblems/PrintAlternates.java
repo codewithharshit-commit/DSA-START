@@ -17,3 +17,5 @@ class PrintAlternates {
         System.out.println(getAlternates(arr));
     }
 }
+
+// Time complexity O(N) --> N is the no of elements in an array
